@@ -4,7 +4,7 @@ This is the first ever programming project i did for my Programming Fundamentals
 
 Core features of the project :
 
-Pre-stored users and creation of new user.
-User meal plans, workout plans and personal data.
-Use of timer for workout.
-Calorie counter with pre-stored calorie charts.
+1. Pre-stored users and creation of new user.
+2. User meal plans, workout plans and personal data.
+3. Use of timer for workout.
+4. Calorie counter with pre-stored calorie charts.
