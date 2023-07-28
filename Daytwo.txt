@@ -1,0 +1,30 @@
+------------------------------------------------------ Day 2 -------------------------------------------------------
+Today's meal plan contains about 1,759 calories, with 51% of those from carbohydrates, 21% fat, and 28% from protein.
+                                                [TOTAL CALORIES=1759]
+
+Breakfast:  (Calories=521)
+
+-One whole-wheat English muffin with two tablespoons peanut butter
+-One orange
+-Large glass (12 ounces) non-fat milk
+-One cup of black coffee or herbal tea
+
+Snack:  (Calories=130)
+
+-Two oatmeal cookies with raisins
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=437)
+
+-A turkey sandwich (six ounces of turkey breast meat, large tomato slice, green lettuce and mustard on two slices of whole wheat bread
+-One cup low-sodium vegetable soup
+-Glass of water
+
+Dinner:  (Calories=671)
+
+-Five-ounce sirloin steak
+-One cup mashed potatoes
+-One cup cooked spinach
+-One cup green beans
+-One glass beer (regular, lite or non-alcohol)
+-Sparkling water with lemon or lime slice

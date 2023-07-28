@@ -1,0 +1,33 @@
+------------------------------------------------------ Day 5 -------------------------------------------------------
+Today's meal plan contains about 1,848 calories, with 53% of those from carbohydrates, 25% fat, and 21% from protein.
+                                                [TOTAL CALORIES=1848]
+
+Breakfast:  (Calories=449)
+
+-One piece French toast with one tablespoon maple syrup
+-One scrambled or poached egg
+-One serving turkey bacon
+-One cup orange juice
+-One cup black coffee or herbal tea
+
+Snack:  (Calories=223)
+
+-One cup sliced carrots
+-One cup cauliflower pieces
+-Two tablespoons ranch dressing
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=542)
+
+-Veggie burger on a whole grain bun
+-One cup northern (or other dry) beans
+-One cup non-fat milk
+
+Dinner:  (Calories=634)
+
+-One trout filet
+-One cup green beans
+-One cup brown rice
+-One small garden salad with two tablespoons salad dressing
+-One glass of beer
+-Sparkling water with lemon or lime slice

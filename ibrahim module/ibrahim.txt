@@ -1,0 +1,8 @@
+User ID: 19K-0312
+Name: Ibrahim Khan
+Date of Birth: 2nd March 2000
+Gender: Male
+Age: 19
+Height: 5'8
+Weight: 56 kg
+Body Mass index(BMI): 18.8 (Your BMI is in normal range)

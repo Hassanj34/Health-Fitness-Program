@@ -1,0 +1,8 @@
+ID: 3
+Name: 3
+Date of birth: 3
+Gender: 3
+Age: 3
+Weight: 
+Height: 3.00
+Your BMI(body mass index) is: 0.33

@@ -1,0 +1,32 @@
+------------------------------------------------------ Day 7 -------------------------------------------------------
+Today's meal plan contains about 1,954 calories, with 54% of those from carbohydrates, 22% fat, and 24% from protein.
+                                                [TOTAL CALORIES=1954]
+
+Breakfast:  (Calories=442)
+
+-One cup cooked oatmeal with one-half cup blueberries, one-half cup non-fat milk, and one tablespoon almond slivers
+-Two slices turkey bacon
+-One cup non-fat milk to drink
+-One cup black coffee or herbal tea
+
+-Snack:  (Calories=343)
+
+-One cup plain yogurt with one tablespoon honey, one-half cup strawberries, and two tablespoons almond slivers
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=498)
+
+-Six-ounce baked chicken breast
+-Large garden salad with tomatoes and onions and two tablespoons salad dressing
+-One baked sweet potato
+-One whole-wheat dinner roll.
+-Glass of water 
+
+Dinner:  (Calories=671)
+
+-3-ounce serving of baked or grilled salmon
+-One-half cup black beans
+-One cup Swiss chard
+-One cup brown rice
+-One whole wheat dinner roll with a pat of butter
+-Sparkling water with lemon or lime slice

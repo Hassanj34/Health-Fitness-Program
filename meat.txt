@@ -1,0 +1,37 @@
+				   MEAT
+
+	Food		|	 Serving	 |	Calories
+------------------------|------------------------|--------------------------
+	Beef		|      1 steak (164g)	 |	 407 cal
+   Beef Brisket		|      1 piece (1780g)	 |	4308 cal
+    Beef Jerky		|      1 piece (20g)	 |	  82 cal
+     Beef Ribs		|      1 piece (225g)	 |	 536 cal
+   Beef Tenderloin	|      1 steak (140g)	 |	 305 cal
+      Chicken		|    1/2 chicken (334g)  |	 731 cal
+   Chicken Breast	|     1 breast (200g)	 |	 344 cal
+  Chicken Drumstick	|    1 drumstick (71g)   | 	 131 cal
+    Chicken Fat		|      1 cup (205g)	 | 	1841 cal
+   Chicken Giblets	|      1 cup (145g)	 |	 229 cal
+   Chicken Gizzards     |      1 cup (145g)	 |	 212 cal
+     Chicken Leg	|      1 leg (199g)	 |	 346 cal
+     Chicken Meat       |    1 breast (200g)	 |	 344 cal
+     Chicken Wing	|      1 wing (29g)	 |	  77 cal
+     Chuck Steak	|     1 steak (310g)	 |	 859 cal
+     Filet Mignon	|    1 fillet (104g)	 |	 278 cal
+     Flank Steak	|     1 steak (188g)	 |	 365 cal
+   Flat Iron Steak	|     1 steak (252g)	 |	 345 cal
+     Ground Beef	|     1 patty (70g)	 |	 172 cal
+     Ground Round	|     1 piece (113g)	 | 	 278 cal
+       Ostrich		|     1 serving (85g)	 |	 123 cal
+     Roast Beef		|      1 roast (515g)	 |	 721 cal
+     Round Steak	|      1 steak (236g)	 |	 430 cal
+      Schnitzel		|   1 schnitzel (130g)   |	 203 cal
+      Spare Ribs	|     1 rack (1400g)	 |	3332 cal
+  Standing Rib Roast	|    1 serving (113g)    |	 376 cal
+     T-Bone Steak	|     1 steak (287g)	 |	 580 cal
+        Turkey		|    1 turkey (3812g)    |	7205 cal
+     Turkey Breast	|    1/2 breast (864g)   |	1166 cal
+      Turkey Legs	|      1 leg (546g)	 | 	1136 cal
+     Turkey Steak	|     1 steak (170g)	 |	 321 cal
+     Turkey Wings	|      1 wing (24g)	 |	  53 cal
+			|  			 |

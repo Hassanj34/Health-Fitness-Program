@@ -1,0 +1,30 @@
+------------------------------------------------------ Day 6 -------------------------------------------------------
+Today's meal plan contains about 1,616 calories, with 55% of those from carbohydrates, 19% fat, and 26% from protein.
+                                                [TOTAL CALORIES=1616]
+
+Breakfast:  (Calories=401)
+
+-One cup corn flakes with two teaspoons sugar and one cup non-fat milk
+-One banana
+-One hard-boiled egg
+-One cup black coffee or herbal tea
+
+-Snack:  (Calories=302)
+
+-One cup plain yogurt with one tablespoon honey, one-half cup blueberries, and one tablespoon almonds
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=413)
+
+-One and one-half cup cottage cheese
+-One fresh peach
+-Glass of water
+
+Dinner:  (Calories=500)
+
+-Four and one-half ounce serving of pork loin
+-Small garden salad with tomatoes and onions topped with two tablespoons oil and vinegar (or salad dressing)
+-One small baked sweet potato
+-One cup asparagus
+-One glass wine (regular or dealcoholized)
+-Sparkling water with lemon or lime slice

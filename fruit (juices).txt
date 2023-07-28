@@ -1,0 +1,48 @@
+			       FRUIT(Juices)
+
+	Food		|	 Serving	 |	Calories
+------------------------|------------------------|--------------------------
+     Acai Juice		|     8 fl.oz.(240ml)	 |	 139 cal
+     Aloe Vera	 	|     8 fl.oz.(240ml)	 |	 106 cal
+    Apple Juice	      	|     8 fl.oz.(240ml)	 | 	 110 cal
+   Apricot Nectar	|     8 fl.oz.(240ml)	 |	 134 cal
+    Banana Juice	|     8 fl.oz.(240ml)	 |	 120 cal
+   Blackberry Juice	|     8 fl.oz.(240ml)	 |	 115 cal
+  Boysenberry Juice	|     8 fl.oz.(240ml)	 |	 130 cal
+    Carrot Juice	|     8 fl.oz.(240ml)	 |	  96 cal
+    Cherry Juice	|     8 fl.oz.(240ml)	 |	 108 cal
+      Clamato		|     8 fl.oz.(240ml)	 |	 144 cal
+   Coconut Milk		|     8 fl.oz.(240ml)	 | 	 559 cal
+   Coconut Water	|     8 fl.oz.(240ml)	 |	  46 cal
+   Concord Grape	|     8 fl.oz.(240ml)	 |	 170 cal
+ Cranberry Apple Juice	|     8 fl.oz.(240ml)	 |	 161 cal
+ Cranberry Grape Juice	|     8 fl.oz.(240ml)	 |	 170 cal 
+   Cranberry Juice	|     8 fl.oz.(240ml)	 |	 110 cal
+   Cucumber Juice	|     8 fl.oz.(240ml)	 |	  24 cal
+    Currant Juice	|     8 fl.oz.(240ml)	 |	 115 cal
+     Fruitopia		|     8 fl.oz.(240ml)	 |	 264 cal
+    Grape Juice		|     8 fl.oz.(240ml)	 |	 144 cal
+  Grapefruit Juice	|     8 fl.oz.(240ml)	 |	 110 cal
+     Lemon Juice	|     8 fl.oz.(240ml)	 |	  50 cal
+      Lemonade		|     8 fl.oz.(240ml)	 |	 120 cal
+     Lime Juice	   	|     8 fl.oz.(240ml)	 |	  50 cal 
+      Limeade		|     8 fl.oz.(240ml)	 |	 307 cal
+    Mango Lassi		|     8 fl.oz.(240ml)	 |	 158 cal
+       Nestea		|     8 fl.oz.(240ml)	 | 	  50 cal
+    Orange Juice	|     8 fl.oz.(240ml)	 |	 110 cal
+    Papaya Juice	|     8 fl.oz.(240ml)	 |	 139 cal
+  Passion Fruit Juice	|     8 fl.oz.(240ml)	 |	 115 cal
+    Peach Juice		|     8 fl.oz.(240ml)	 |	 130 cal
+    Peach Nectar	|     8 fl.oz.(240ml)	 |	 130 cal
+     Pear Juice		|     8 fl.oz.(240ml)	 |	 144 cal
+     Pear Nectar	|     8 fl.oz.(240ml)	 |	 144 cal
+   Pineapple Juice	|     8 fl.oz.(240ml)	 |	 127 cal
+ Pineapple Orange Juice	|     8 fl.oz.(240ml)	 |	 120 cal
+     Plum Juice		|     8 fl.oz.(240ml)	 |	 170 cal
+   Pomegranate Juice	|     8 fl.oz.(240ml)	 |	 158 cal
+    Sauerkraut Juice	|     8 fl.oz.(240ml)	 |	  34 cal
+    Tangerine Juice	|     8 fl.oz.(240ml)	 |	 103 cal
+      Tomato Juice	|     8 fl.oz.(240ml)	 |   	  41 cal
+     Vegetable Juice	|     8 fl.oz.(240ml)	 |	  50 cal
+    White Grape Juice	|     8 fl.oz.(240ml)    | 	 180 cal
+			|  			 |

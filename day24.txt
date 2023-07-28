@@ -1,0 +1,63 @@
+********************************|Day24|***********************************
+
+	 Total 2904 Calories >> 133g Protein - 336g Carbs - 111g Fat
+
+BREAKFAST: 	843 Calories >> 28g Protein- 117g Carboydrates- 27g Fat
+
+		Food items		|		Calories
+	     ---------------------------|----------------------------
+ 	  65g Oats, 300ml Whole Milk	|	           425
+					|
+	    1 Banana, 25g Nuts,		|		   300
+	        2 tsp Honey		|	
+					|
+             Glass of Orange Juice	|		   118
+					|
+
+Snack 1: 	119 Calories >> 2g Protein- 15g Carbohydrates- 6g Fat
+
+		Food Items		|		Calories
+	    ----------------------------|----------------------------
+		Granola Bar		|		   119
+					|
+
+Lunch: 		1000 Calories >> 52g Protein- 92g Carbohydrates- 44g Fat
+
+		Food items		|		Calories
+ 	     ---------------------------|---------------------------
+	    200g Canned Salmon		|		   360
+	  				|
+	  2 Whole-Wheat Pitta Breads	|		   308
+        				|
+           2 tbsp Mayonnaise, Salad	|		   222
+					|
+		  1 Apple		|		   110
+					|
+				
+Snack 2: 	193 Calories >> 5g Protein - 42g Carbohydrates- 1g Fat
+
+		Food Items		|		Calories
+	     ---------------------------|---------------------------
+	     1 Mashed Banana on 	|		   193
+	     a slice Wheat Toast	|	  
+					|
+
+Dinner: 	599 Calories >> 34g Protein- 53g Carbohydrates- 29g Fat
+		
+		Food Items		|		Calories
+	      --------------------------|---------------------------
+	   Large Cod Fillet (150g)	|		   123
+					|
+	    300g Potato Wedges,		|		   344
+	   cooked in 1 tbsp Oil		|
+					|
+	    Mixed Salad Leaves,		|		   132
+        1 tbsp Olive Oil, seasoning	|
+					|
+
+Desert: 	150 Calories >> 12g Protein- 17g Carbohydrates- 4g Fat
+
+		Food Items		|		Calories
+	      --------------------------|--------------------------
+	      1 Fruit Yogurt		|		   150
+					|

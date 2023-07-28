@@ -1,0 +1,31 @@
+------------------------------------------------------ Day 3 -------------------------------------------------------
+Today's meal plan contains about 1,827 calories, with 55% of those from carbohydrates, 20% fat, and 25% from protein.
+                                                [TOTAL CALORIES=1827]
+
+Breakfast:  (Calories=543)
+
+-One medium bran muffin
+-One serving turkey breakfast sausage
+-One orange
+-One cup non-fat milk
+-One cup black coffee or herbal tea
+
+Snack:  (Calories=171)
+
+-One fresh pear
+-One cup of flavored soy milk
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=329)
+
+-Low sodium chicken noodle soup with six saltine crackers
+-One medium apple
+-Water
+
+Dinner:  (Calories=784)
+
+-8-ounce serving of turkey breast meat.
+-One cup baked beans.
+-One cup cooked carrots.
+-One cup cooked kale.
+-One glass of wine.

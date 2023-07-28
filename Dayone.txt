@@ -1,0 +1,32 @@
+------------------------------------------------------ Day 1 -------------------------------------------------------
+Today's meal plan contains about 1,986 calories, with 55% of those from carbohydrates, 20% fat, and 25% from protein.
+                                                [TOTAL CALORIES=1986]
+
+Breakfast:  (Calories=555)
+
+-One grapefruit.
+-Two poached eggs (or fried in a non-stick pan)
+-Two slices whole-grain toast with one pat butter each.
+-One cup low-fat milk.
+-One cup of black coffee or herbal tea.
+
+Snack:  (Calories=360)
+
+-One banana.
+-One cup plain yogurt with two tablespoons honey.
+-Glass of water.
+
+Lunch:  (Calories=425)
+
+-Chicken breast (6-ounce portion), baked or roasted (not breaded or fried)
+-Large garden salad with tomato and onion with one cup croutons, topped with one tablespoon oil and vinegar.
+-Glass of water. 
+
+Dinner:  (Calories=646)
+
+-One cup steamed broccoli.
+-One cup of brown rice.
+-Halibut (four-ounce portion)
+-Small garden salad with one cup spinach leaves, tomato, and onion topped with two tablespoons oil and vinegar.
+-One glass white wine (regular or dealcoholized)
+-Sparkling water with lemon or lime slice.

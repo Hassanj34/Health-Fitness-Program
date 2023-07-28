@@ -1,0 +1,27 @@
+------------------------------------------------------ Day 4 -------------------------------------------------------
+Today's meal plan contains about 1,667 calories, with 54% of those from carbohydrates, 24% fat, and 22% from protein.
+                                                [TOTAL CALORIES=1667]
+
+Breakfast:  (Calories=557)
+
+-One cup whole wheat flakes with one cup non-fat milk and one teaspoon sugar
+-One banana
+-One slice whole-grain toast with one tablespoon peanut butter
+-One cup of black coffee or herbal tea
+
+Snack:  (Calories=106)
+
+-One cup grapes and one tangerine
+-Glass of water, hot tea or black coffee
+
+Lunch:  (Calories=419)
+
+-Tuna wrap with one wheat flour tortilla, one-half can water-packed tuna (drained), one tablespoon mayonnaise, lettuce, and sliced tomato
+-One sliced avocado
+-One cup non-fat milk
+
+Dinner:  (Calories=585)
+
+-One serving lasagna
+-Small garden salad with tomatoes and onions topped with one tablespoon salad dressing
+-One cup non-fat milk

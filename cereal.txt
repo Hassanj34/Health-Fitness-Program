@@ -1,0 +1,46 @@
+			      CEREAL PRODUCTS	 
+						
+	Food		|	  Serving	 |	Calories
+------------------------|------------------------|-------------------------
+      Amaranth		|      1 cup (193g)	 |	 716 cal
+       Barley		|      1 cup (157g)	 |	 556 cal
+   Barley Groats	|      1 cup (31g)	 |	  31 cal
+     Brown Rice		|      1 cup (195g)	 | 	 757 cal
+      Buckwheat		|      1 cup (170g)	 |	 583 cal
+  Buckwheat Groats	|      1 cup (164g)	 |	 567 cal
+    Corn Waffles	|     1 waffle (40g)	 |	 110 cal
+      Cornmeal		|      1 cup (122g)	 |	 442 cal
+     Cornstarch		|      1 cup (128g)	 |	 488 cal
+      Couscous		|      1 cup (173g)	 |	 650 cal
+       Cracker		|     1 cracker (7g)	 |	  35 cal
+ Durum Wheat Semolina	|      1 tbsp (30g)	 |	 119 cal
+      Flaxseed		|      1 cup (168g)	 |	 897 cal
+       Freekeh		|      1 cup (160g)	 |	 832 cal
+        Gluten		|	1 oz.(28g)	 |	 104 cal
+       Grissini		|     1 grissini (5g)	 |	  20 cal
+	Kamut		|      1 cup (186g)	 |	 627 cal
+       Millet		|      1 cup (128g)	 |	 484 cal
+    Millet Gruel	|      1 cup (174g)	 |	  80 cal
+      Oat Bran		|      1 cup (94g)	 |	 231 cal
+    Pearl Barley	|      1 cup (157g)	 |	 553 cal
+       Polenta		|      1 cup (150g)	 | 	 549 cal
+    Prawn Crackers	|     1 cracker (3g)	 |	  16 cal
+    Pretzel Sticks	|     20 sticks (12g)	 |	  46 cal
+       Quinoa		|      1 cup (170g)	 |	 626 cal
+	Rusk		|      1 rusk (10g)	 |	  41 cal
+      Rye Bran		|      1 cup (150g)	 |	 422 cal
+	Sago		|       1 oz.(28g)	 |	  99 cal
+  Savoury Biscuits	|     40 grams (40g)	 |	 139 cal
+     Shortbread		|     1 cookie (19g)	 |	  95 cal
+        Spelt		|      1 cup (174g)	 |	 588 cal
+     Spelt Bran		|      1 cup (160g)	 |	 283 cal
+   Sunflower Seeds	|      1 cup (140g)	 | 	 818 cal
+      Tortilla		|    1 tortilla (197g)	 |	 467 cal
+    Tortilla Chips	|      20 chips (32g)	 | 	 160 cal
+      Wheat Bran	|	1 cup (58g)	 |	 125 cal
+      Wheat Germ	|	1 cup (113g)	 | 	 432 cal
+     Wheat Gluten	|	 1 tsp (3g)	 |	  10 cal
+     Wheat Starch	|	1 cup (110g)	 |	 386 cal
+   Whole Grain Wheat	|	1 cup (120g)	 | 	 407 cal
+     Wholegrain Oat	|       1 cup (80g)	 |	 300 cal
+			| 			 |

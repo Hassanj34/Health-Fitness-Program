@@ -1,0 +1,55 @@
+				FAST FOOD
+
+	     Food		|	Serving	       |     Calories
+--------------------------------|----------------------|--------------------
+      	    BBQ Rib		|      1 rib (67g)     |      142 cal
+          Bean Burrito	        |   1 burrito (190g)   |      380 cal
+           Bratwurst		|     1 piece (85g)    |      283 cal
+   Burger King Angry Whopper	|    1 burger (290g)   |      740 cal
+   Burger King Double Whopper   |    1 burger (374g)   |      894 cal
+  Burger King Chicken Sandwich  |  1 sandwich (219g)   |      659 cal
+   Burger King Fish Sandwich    |  1 sandwich (228g)   |      591 cal
+     Burger King Triple Whopper	|    1 burger (547g)   |     1471 cal
+      Burger King Whopper	|    1 burger (291g)   |      672 cal
+    Burger King Whopper Jr.	|    1 burger (148g)   |      346 cal
+          Cheeseburger		|    1 burger (156g)   |      410 cal
+      Double Cheeseburger	|    1 burger (155g)   |      414 cal
+         Chicken Fajita		|   1 sandwich (222g)  |      326 cal
+        Chicken McNuggets	|    1 nugget (16g)    |       48 cal
+        Chicken Pizziola	|   1 sandwich (320g)  |      451 cal
+        Chicken Sandwich	|   1 sandwich (170g)  |      410 cal
+          Curly Fries		|   1 serving (128g)   |      398 cal
+	  French Fries		|   1 serving (71g)    |      222 cal
+	   Egg Roll		|     1 roll (80g)     |      200 cal
+	    Falafel		|    1 patty (17g)     |        57cal
+	  Filet-o-Fish		|   1 sandwich (142g)  |      400 cal
+	 Fish and Chips		|   1 serving (300g)   |      585 cal
+	 Fish Sandwich		|   1 sandwich (158g)  |      431 cal
+     Grilled Chicken Salad	|    1 salad (305g)    |      268 cal
+	    Hot Dog		|   1 hot dog (116g)   |      312 cal
+	    Lasagna		|    1 piece (130g)    |      172 cal
+	McDonald’s Big Mac	|    1 burger (219g)   |      561 cal
+     McDonald’s Cheeseburger	|   1 sandwich (114g)  |      300 cal
+   McDonald’s Chicken Nuggets	|     1 nugget (16g)   |       48 cal
+ McDonald’s Double Cheeseburger	|    1 burger (155g)   |      437 cal
+    McDonald’s Filet-o-Fish	|   1 sandwich (142g)  |      391 cal
+      McDonald’s McChicken	|    1 burger (143g)   |      359 cal
+      McDonald’s McDouble	|    1 burger (160g)   |      403 cal
+    McDonald’s McMuffi Egg	|    1 burger (129g)   |      290 cal
+        McDonald’s McRib	|   1 sandwich (170g)  |      451 cal
+     McDonald’s Mighty Wings	|     1 wing (31g)     |       95 cal
+	     McRib	   	|   1 sandwich (170g)  |      451 cal
+       Meatball Sandwich	|   1 sandwich (299g)  |      481 cal
+       Nachos with Cheese	|   10 nachos (188g)   |      575 cal
+	  Onion Rings		|    1 ring (6.5g)     |       25 cal
+         Smoked Salmon		|    1 oz.(28.35g)     |       44 cal
+	 Spicy Italian		|   1 sandwich(219 g)  |      480 cal
+      Subway Club Sandwich	|   1 sandwich(238 g)  |      312 cal
+	 Tortilla Wrap		|      1 wrap(63g)     |      171 cal
+	      Tuna		|     1 oz.(28.35g)    |       24 cal
+         Veggie Burger		|    1 burger (215g)   |      389 cal
+	 Veggie Delight		|   1 sandwich (166g)  |      229 cal
+	 Veggie Patty		|   1 sandwich (247g)  |      963 cal
+	    Zinger		|    1 burger (202g)   |      517 cal
+	 Zinger Burger		|    1 burger (202g)   |      517 cal
+				|		       |	
